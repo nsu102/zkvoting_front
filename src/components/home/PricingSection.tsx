@@ -6,7 +6,7 @@ import { PRICING_SECTION } from '@/constants';
 
 export default function PricingSection() {
   return (
-    <section className="py-20 bg-gradient-to-br from-purple-50 to-blue-50">
+    <section className="py-12 mb-40">
       <div className="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
         <motion.h2
           initial={{ opacity: 0, y: 30 }}
